@@ -1,0 +1,197 @@
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 9:23:29
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			NLOG
+
+			Nombre del usuario         : dhg
+
+			Contraseña con el que intento entrar: hd
+
+			Fecha en que Intento Inciar Cesion: 7/6/2023
+
+			Hora en que Intento Entrar al Programa: 9:23:45
+
+			Aplicacion: 701, Accion:ING USUARIO
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : juan1
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 9:55:38
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : juan1
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 9:56:7
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 10:26:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:6:31
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:14:9
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:25:58
+
+			Aplicacion: 705, Accion:ING PAIS
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:27:7
+
+			Aplicacion: 707, Accion:UPD PAIS
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:28:34
+
+			Aplicacion: 705, Accion:ING PAIS
+
+			Aplicacion: 706, Accion:DES PAIS
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:29:40
+
+			Aplicacion: 706, Accion:DES PAIS
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:30:11
+
+
+-------------------------------------------------Bitacora de Ingreso de Usuario---------------------------------------------
+
+
+
+			LOG
+
+			Nombre del usuario         : Giovanni
+
+			Fecha en que Inicio Cesion: 7/6/2023
+
+			Hora en que entro al programa: 11:33:11
+
+			Aplicacion: 705, Accion:ING PAIS
+
+			Aplicacion: 706, Accion:DES PAIS
+
+			Aplicacion: 707, Accion:UPD PAIS
+
+			Aplicacion: 706, Accion:DES PAIS
+
+			Aplicacion: 708, Accion:SRCH PAIS
+
+			Aplicacion: 709, Accion:DEL PAIS
+
+			Aplicacion: 706, Accion:DES PAIS
+

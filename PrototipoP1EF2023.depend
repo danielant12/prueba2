@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1686151223 source:c:\users\daniel chacon\documents\universidad 2023\programacion i\ejercicios o tareas de git\ejercicios\robotjuego\prototipop1ef2024\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686151223 c:\users\users\daniel chacon\documents\universidad 2023\programacion i\ejercicios o tareas de git\ejercicios\robotjuego\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686151223 source:c:\users\daniel chacon\documents\universidad 2023\programacion i\ejercicios o tareas de git\ejercicios\robotjuego\prototipop1ef2023\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686151223 c:\users\\daniel chacon\documents\universidad 2023\programacion i\ejercicios o tareas de git\ejercicios\robotjuego\prototipop1ef2023\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686151358 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\ejercicios\robotjuego\prototipop1ef2023\main.cpp
+	<iostream>
+	"Usuarios.h"
+
+1686151223 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686151223 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158747 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"bitacora.h"
+	"pais.h"
+	"entrenador.h"
+	"resultados.h"
+	"aplicaciones.h"
+
+1686153723 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1686158219 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\src\usuarios.cpp
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158815 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\src\pais.cpp
+	"pais.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158219 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\include\pais.h
+	<iostream>
+	"bitacora.h"
+
+1686158219 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686156487 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\include\entrenador.h
+	<iostream>
+
+1686158219 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\include\resultados.h
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158219 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\src\resultados.cpp
+	"resultados.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158734 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"Usuarios.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158734 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\parcialfinal-programacion1\prototipop1ef2023\include\aplicaciones.h
+	<iostream>
+
